@@ -1,0 +1,10 @@
+h1{
+  color: darkorchid;
+  text-indent: 10px;
+  text-align: justify;
+  -webkit-text-decoration-style: dashed;
+  text-decoration-style: dashed;
+  font-size-adjust: auto;
+  font-size: 10em;
+  background-color: black;
+}
